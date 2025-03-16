@@ -22,7 +22,7 @@
 ## 📸 Screenshots  
 | 📱 หน้าแรก | 🔍 หน้าค้นหา | ➕ เพิ่มสูตรอาหาร |  
 |------------|------------|----------------|  
-| ![Home](assets/screenshots/home.png) | ![Search](assets/screenshots/search.png) | ![Add Recipe](assets/screenshots/add_recipe.png) |
+| ![Home](demo/screen1.png) | ![Search](assets/screenshots/search.png) | ![Add Recipe](demo/add.png) |
 
 | 📖 รายละเอียดสูตร | 👤 โปรไฟล์ | 🔖 รายการโปรด |
 |----------------|-----------|--------------|
