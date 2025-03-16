@@ -1,16 +1,32 @@
-# mobile
+# 🍰 Recipe App - Flutter + Firebase Firestore
 
-A new Flutter project.
+แอปพลิเคชันสำหรับเพิ่มสูตรอาหาร ที่ช่วยให้ผู้ใช้สามารถบันทึกและเรียกดูสูตรอาหารได้อย่างง่ายดาย  
+🌸 ตกแต่งด้วยโทนสีพาสเทล ✨ พร้อม **Firebase Firestore** ในการจัดเก็บข้อมูล และใช้ URL สำหรับเก็บรูปภาพแทน Firebase Storage
 
-## Getting Started
+![Recipe App](assets/screenshots/recipe-app-banner.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎥 Demo Video
+[![Watch the Demo](https://img.youtube.com/vi/วางลิงก์วิดีโอที่นี่/0.jpg)](https://www.youtube.com/watch?v=วางลิงก์วิดีโอที่นี่)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features  
+✅ เพิ่ม แก้ไข และลบสูตรอาหารได้  
+✅ จัดเก็บข้อมูลสูตรอาหารใน **Firebase Firestore**  
+✅ รองรับการเพิ่มรูปภาพโดยใช้ **URL**  
+✅ ค้นหาสูตรอาหารได้ง่าย    
+
+---
+
+## 📸 Screenshots  
+| 📱 หน้าแรก | 🔍 หน้าค้นหา | ➕ เพิ่มสูตรอาหาร |  
+|------------|------------|----------------|  
+| ![Home](assets/screenshots/home.png) | ![Search](assets/screenshots/search.png) | ![Add Recipe](assets/screenshots/add_recipe.png) |
+
+| 📖 รายละเอียดสูตร | 👤 โปรไฟล์ | 🔖 รายการโปรด |
+|----------------|-----------|--------------|
+| ![Recipe Detail](assets/screenshots/recipe_detail.png) | ![Profile](assets/screenshots/profile.png) | ![Favorites](assets/screenshots/favorites.png) |
+
+---
