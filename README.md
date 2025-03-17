@@ -26,6 +26,6 @@
 
 | 📖 รายละเอียดสูตร | 👤 โปรไฟล์ | 🔖 รายการโปรด |
 |----------------|-----------|--------------|
-| ![Recipe Detail](assets/screenshots/recipe_detail.png) | ![Profile](assets/screenshots/profile.png) | ![Favorites](assets/screenshots/favorites.png) |
+| ![Recipe Detail](demo/detail.png) | ![Profile](demo/profile.png) | ![Favorites](demo/fav.png) |
 
 ---
